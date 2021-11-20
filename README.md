@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @atharva-p
-- 👀 I’m interested in ... all things computers! 
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning ... web development
 - 📫 How to reach me ... athpatil6@gmail.com
 
